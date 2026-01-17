@@ -6,7 +6,7 @@ c1: A  E  G  D  Dm  A  B7  D  A
 
 ## Verse 1
 
-c1: A                    E                  G
+c1: A                        E            G
 l1: When the rain is blowin' in your face
 
 c1:                        D              Dm
