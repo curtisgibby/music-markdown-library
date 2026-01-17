@@ -132,7 +132,9 @@ l1: I said "Hey, what's going on?"
 c1: G      Am  C   G
 l1:  Ooh, Ooh Ooh
 
+::: outro
 ## Outro
+:::
 
 c1: G
 l1:   Twenty-five years and my life is still
