@@ -29,7 +29,7 @@ c1: C                    G
 l1: Caught like wildfire out of control,
 
 c1:               C
-till there was nothing left to burn and
+l1: till there was nothing left to burn and
 
 c1:                D
 l1: nothing left to prove.
@@ -45,7 +45,7 @@ l1: how she swore that it never would end.
 c1:  Em               D         C
 l1: I remember how she held me,  oh so tight.
 
-c1:C                             D
+c1: C                             D
 l1: Wish I didn't know now what I didn't know then.
 
 ## Chorus
@@ -70,7 +70,7 @@ l1: And the years rolled slowly past.
 c1: Bm
 l1: And I found myself alone.
 
-c1:C                         G
+c1: C                         G
 l1: Surrounded by strangers I thought were my friends,
 
 c1: D                          C
@@ -79,10 +79,10 @@ l1: I found myself further and further from my home.
 c1: G
 l1: And I guess I lost my way.
 
-c1:Bm
+c1: Bm
 l1: There were oh, so many roads.
 
-c1:C                  G
+c1: C                  G
 l1: I was living to run, and running to live,
 
 c1: C                                   D
@@ -116,7 +116,7 @@ l1: I found myself seeking shelter against the wind.
 ## Pre-Chorus
 
 c1:            Em        D                G
-Well those drifter's days are past me now,
+l1: Well those drifter's days are past me now,
 
 c1:          Em      C              G
 l1: I've got so much more to think about.
