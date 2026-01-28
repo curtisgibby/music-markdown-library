@@ -7,7 +7,7 @@ chords:
     - n2,2 n3,2 n5,3 n6,3
   Cadd9:
     - m1 n2,3 n3,2 n5,3 n6,3
-  Dsus4:
+  Dadd4:
     - m1 m2 n4,2 n5,3 n6,3
   G/B:
     - m1 n2,1 n5,3 n6,3
