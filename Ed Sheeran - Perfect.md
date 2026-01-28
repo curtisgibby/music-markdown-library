@@ -4,9 +4,9 @@ chords:
   G:
     - n1,3 m2 n5,3 n6,3
   Em:
-    - o1 n2,2 n3,2 o4 n5,3 n6,3
+    - n2,2 n3,2 n5,3 n6,3
   Cadd9:
-    - m1 m2 o3 n4,3 n5,3 n6,3
+    - m1 n2,3 n3,2 n5,3 n6,3
   Dsus4:
     - m1 m2 n4,2 n5,3 n6,3
   G/B:
