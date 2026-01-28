@@ -37,13 +37,13 @@ l1: But I still haven't found what I'm looking for.
 c1:        A
 l1: I have kissed honey lips, felt the healing fingertips
 
-c1:               D                    A
+c1:                D                    A
 l1: It burned like fire, this burning desire.
 
 c1:        A
 l1: I have spoke with the tongue of angels, I have held the hand of the devil
 
-c1:                   D                      A
+c1:                    D                      A
 l1: It was warm in the night, I was cold as a stone.
 
 ## Chorus 2
@@ -64,10 +64,10 @@ c1: | D   | D   | A   | A
 c1:    A
 l1: I believe in Kingdom Come, then all the colors will bleed into one,
 
-c1:           D                      A
+c1:            D                      A
 l1: Bleed into one, but yes I'm still running.
 
-c1:              A                    A
+c1:               A                    A
 l1: You broke the bonds and loosed the chains,
 
 c1:            A                         D
