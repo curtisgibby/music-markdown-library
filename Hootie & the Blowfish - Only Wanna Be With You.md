@@ -8,7 +8,7 @@ c1: D   G   D   G   D   G   D   G
 
 ## Verse 1
 
-c1: D        G        D                 G
+c01: D        G        D                 G
 l1:  You and me, we come from diff'rent worlds.
 
 c1: D            G                  D             G
@@ -18,7 +18,7 @@ c1: D                 G     D               G
 l1:  Sometimes you're crazy  and you wonder why
 
 c1: D           G               D                G
-l1:  I'm such a baby 'cause the dolphins make me cry.
+l1:  I'm such a baby 'cause the Dolphins make me cry.
 
 ## Chorus
 
