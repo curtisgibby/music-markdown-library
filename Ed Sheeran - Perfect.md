@@ -2,11 +2,17 @@
 youTubeId: 2Vv-BfVoq4g
 chords:
   G:
-    - n1,3 m2 o3 o4 n5,3 n6,3
+    - n1,3 m2 n5,3 n6,3
   Em:
     - o1 n2,2 n3,2 o4 n5,3 n6,3
   Cadd9:
     - m1 m2 o3 n4,3 n5,3 n6,3
+  Dsus4:
+    - m1 m2 n4,2 n5,3 n6,3
+  G/B:
+    - m1 b2,1 n5,3 n6,3
+  D/F#:
+    - n1,2 m2 n4,2 n5,3 m6
 ---
 
 # Ed Sheeran - Perfect
@@ -28,7 +34,7 @@ l1: Darling just dive right in, and follow my lead
 c1:                G          Em
 l1: Well I found a girl beautiful and sweet
 
-c1:         Cadd9                                D
+c1:         Cadd9                                 D
 l1: I never knew you were the someone waiting for me
 
 ## Pre-Chorus
@@ -76,7 +82,7 @@ l1: But you heard it, darling you look perfect tonight
 
 ## Verse 2
 
-c1:                G                  Em
+c1:                G                    Em
 l1: Well I found a woman, stronger than anyone I know
 
 c1:               C
@@ -122,13 +128,13 @@ l1: Barefoot on the grass,
 c1: D                Em
 l1: listening to our favorite song
 
-c1:         Cadd9            G
+c1:        Cadd9           G
 l1: When I saw you in that dress,
 
 c1:            D
 l1: looking so beautiful
 
-c1:   Em       Cadd9
+c1:   Em      Cadd9
 l1: I don't deserve this,
 
 c1: G       D                G
@@ -140,7 +146,7 @@ c1: | G  | G | Em | Em | C  | C | D  | D |
 
 ## Chorus
 
-c1:       Em   Cadd9          G
+c1:       Em  Cadd9          G
 l1: Baby, I'm dancing in the dark,
 
 c1:      D              Em
