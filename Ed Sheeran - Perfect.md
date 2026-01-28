@@ -12,7 +12,7 @@ chords:
   G/B:
     - m1 n2,1 n5,3 n6,3
   D/F#:
-    - n1,2 m2 n4,2 n5,3 m6
+    - n1,2 n4,2 n5,3 n6,2
 ---
 
 # Ed Sheeran - Perfect
