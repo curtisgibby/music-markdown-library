@@ -136,7 +136,7 @@ l1: darling you look perfect tonight
 
 ## Interlude
 
-c1: | G  | % | Em | % | C  | % | D  | % |
+c1: | G  | G | Em | Em | C  | C | D  | D |
 
 ## Chorus
 
@@ -163,7 +163,7 @@ l1: In person, and she looks perfect
 
 ## Outro
 
-c1:   G/B     Cadd9       Dadd4    D        [ G ]
+c1:   G/B     Cadd9       Dadd4    D       G
 l1: I don't deserve this, you look perfect tonight
 
 c1: | G D/F# Em D | C  D  |
