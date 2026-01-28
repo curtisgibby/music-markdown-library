@@ -131,7 +131,7 @@ l1: looking so beautiful
 c1:   Em       Cadd9
 l1: I don't deserve this,
 
-c1: G       D                [ G ]
+c1: G       D                G
 l1: darling you look perfect tonight
 
 ## Interlude
