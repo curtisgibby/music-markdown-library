@@ -2,7 +2,7 @@
 youTubeId: 2Vv-BfVoq4g
 chords:
   G:
-    - b1,3 m2 o3 o4 n5,3 n6,3
+    - n1,3 m2 o3 o4 n5,3 n6,3
   Em:
     - o1 n2,2 n3,2 o4 n5,3 n6,3
   Cadd9:
