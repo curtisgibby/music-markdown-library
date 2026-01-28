@@ -10,7 +10,7 @@ chords:
   Dsus4:
     - m1 m2 n4,2 n5,3 n6,3
   G/B:
-    - m1 b2,1 n5,3 n6,3
+    - m1 n2,1 n5,3 n6,3
   D/F#:
     - n1,2 m2 n4,2 n5,3 m6
 ---
