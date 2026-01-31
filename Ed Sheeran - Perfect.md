@@ -85,7 +85,7 @@ l1: But you heard it, darling you look perfect tonight
 c1:                G                    Em
 l1: Well I found a woman, stronger than anyone I know
 
-c1:               C
+c1:               Cadd9
 l1: She shares my dreams,
 
 c1:                                      D
