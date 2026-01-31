@@ -1,6 +1,6 @@
 # Carole King - Up on the Roof
 
-Capo 5th fret
+Capo 3rd fret
 
 ## Verse 1
 
