@@ -54,7 +54,7 @@ l1:  Let's go up on the roof
 
 ## Interlude
 
-c1: G   Em   C   Am7 D G
+c1: G  \[Em\]   C   \[Am7\] D \[G\]
 
 ## Chorus 3
 
