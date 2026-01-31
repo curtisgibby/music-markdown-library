@@ -70,6 +70,9 @@ l1: Bleed into one, but yes I'm still running.
 c1:               A                    A
 l1: You broke the bonds and loosed the chains,
 
+c1:             A                         D
+l1: Carried the cross, of my shame, of my shame…
+
 c1:            A                         D
 l1: Carried the cross, of my shame, of my shame…
 c1:     A
