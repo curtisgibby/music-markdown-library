@@ -77,7 +77,7 @@ l1: When you said you looked a mess,
 c1:             D             Em
 l1: I whispered underneath my breath
 
-c1:         Cadd9            G        D           G
+c1:         Cadd9             G        D           G
 l1: But you heard it, darling you look perfect tonight
 
 ## Verse 2
