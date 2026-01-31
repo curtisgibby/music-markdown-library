@@ -39,7 +39,7 @@ l1: I never knew you were the someone waiting for me
 
 ## Pre-Chorus
 
-c1:                                 G
+c1: D                               G
 l1: Cause we were just kids when we fell in love
 
 c1:             Em
@@ -82,7 +82,7 @@ l1: But you heard it, darling you look perfect tonight
 
 ## Verse 2
 
-c1:                G                    Em
+c1: D              G                    Em
 l1: Well I found a woman, stronger than anyone I know
 
 c1:               Cadd9
@@ -142,7 +142,7 @@ l1: darling you look perfect tonight
 
 ## Interlude
 
-c1: | G  | G | Em | Em | C  | C | D  | D |
+c1: | G  | G | Em | Em | Cadd9  | Cadd9 | D  | D |
 
 ## Chorus
 
@@ -172,4 +172,4 @@ l1: In person, and she looks perfect
 c1:   G/B     Cadd9       Dadd4    D       G
 l1: I don't deserve this, you look perfect tonight
 
-c1: | G D/F# Em D | C  D  | G
+c1: | G D/F# Em D | Cadd9  D  | G
