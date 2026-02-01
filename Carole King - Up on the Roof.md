@@ -4,17 +4,17 @@ Capo 3rd fret
 
 ## Verse 1
 
-c1: G                            Em
-l1:  When this old world starts getting me down
+c1: G                          Em
+l1: When this old world starts getting me down
 
-c1:      C                   Am7      D     G
-l1:  And people are just too much for me to face
+c1:     C                   Am7      D     G
+l1: And people are just too much for me to face
 
-c1:  G                          Em
-l1:  I'll climb way up to the top of the stairs
+c1: G                          Em
+l1: I'll climb way up to the top of the stairs
 
-c1:      C                  Am7  D          G
-l1:  And all my cares just drift right into space
+c1:     C                 Am7   D          G
+l1: And all my cares just drift right into space
 
 ## Chorus 1
 
@@ -29,7 +29,7 @@ l1: Let me tell you now
 
 ## Verse 2
 
-c1:          G                   Em
+c1:         G                   Em
 l1: So when I come home feelin' tired and beat
 
 c1:      C               Am7    D          G
