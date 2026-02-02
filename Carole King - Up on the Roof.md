@@ -92,10 +92,10 @@ l1: Everything is all right
 c1:       C    D
 l1: Up on the roof
 
-c1:           G    Em
-l1: Oh.. come on baby..
+c1:         G    Em
+l1: Oh come on baby.
 
-c1:        C    D
+c1:       C    D
 l1: Up on the roof
 
 c1:            G         Em
