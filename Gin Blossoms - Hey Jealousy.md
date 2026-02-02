@@ -11,22 +11,22 @@ D
 c1:                C                 D
 l1: Tell me do you think it'd be all right
 
-c1:             Em               D
+c1:            Em              D
 l1: If I could just crash here tonight
 
-c1:              C                     D
+c1:             C                   D
 l1: You can see I'm in no shape for driving
 
-c1:                  Em             D
+c1:                 Em              D
 l1: And anyway I've got no place to go
 
-c1:                   C               D
+c1:                 C                 D
 l1: And you know it might not be that bad
 
 c1:              Em            D
 l1: You were the best I'd ever had
 
-c1:              C                    D
+c1:             C                     D
 l1: If I hadn't blown the whole thing years ago
 
 c1:   Em           D
@@ -43,7 +43,7 @@ l1: And let the cops chase us around
 c1:                      Em                 D
 l1: The past is gone but something might be found
 
-c1:               C
+c1:             C
 l1: To take its place
 
 c1: C
