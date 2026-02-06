@@ -4,7 +4,7 @@ Capo 2nd Fret
 
 ## Verse 1
 
-c1:           C
+c1:         C
 l1: And you ask me what I want this year
 
 c1:       F
