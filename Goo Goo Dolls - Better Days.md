@@ -1,6 +1,6 @@
 # Goo Goo Dolls - Better Days
 
-Capo: 2nd Fret
+Capo 2nd Fret
 
 ## Verse 1
 
