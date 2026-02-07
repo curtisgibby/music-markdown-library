@@ -134,8 +134,8 @@ l1: Guide us to thy perfect light.
 
 ## Outro
 
-c1:     Am      E     Am      E
+c1:     Am      E     Am    E
 l1: God rest ye merry gentlemen, let nothing you dismay
 
-c1:     Am      E     Am      E
+c1:     Am      E     Am    E
 l1: God rest ye merry gentlemen, let nothing you dismay
