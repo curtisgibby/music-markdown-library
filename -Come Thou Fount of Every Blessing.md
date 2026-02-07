@@ -18,10 +18,10 @@ l1: Streams of mercy, never ceasing,
 c1:          C        D       G
 l1: Call for songs of loudest praise.
 
-c1: G       Em             C
+c1: G        Em             C
 l1: Teach me some melodious sonnet,
 
-c1:         Em               C
+c1:         Em              C
 l1: Sung by flaming tongues above;
 
 c1:            G                 D
