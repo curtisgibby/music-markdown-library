@@ -4,9 +4,9 @@ Capo 1
 
 ## Intro
 
-c1: | D A | G A |
+c1: D A G A
 
-c1: | D A | G A |
+c1: D A G A
 
 ## Verse 1
 
@@ -33,7 +33,7 @@ l1: There's a truth in your eyes saying you'll never leave me
 c1:   D             A                 G                    A G A
 l1: A touch of your hand says you'll catch me if ever I fall
 
-c1: D    G                 A                     | D A | G A | D A | G A |
+c1: D    G                 A                     D  A  G A D A G A
 l1: Now you say it best, when you say nothing at all
 
 ## Verse 2
@@ -61,5 +61,5 @@ l1: There's a truth in your eyes saying you'll never leave me
 c1:    D              A                 G                  A G A
 l1: A touch of your hand says you'll catch me if ever I fall
 
-c1: D    G                 A                     | D A | G A | D A | G A |
+c1: D    G                 A                     D  A  G A D A G A
 l1: Now you say it best, when you say nothing at all
