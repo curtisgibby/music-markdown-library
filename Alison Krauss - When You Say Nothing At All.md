@@ -4,7 +4,9 @@ Capo 1
 
 ## Intro
 
-c1: | D A | G A | x2
+c1: | D A | G A |
+
+c1: | D A | G A |
 
 ## Verse 1
 
