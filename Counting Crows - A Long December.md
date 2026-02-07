@@ -31,7 +31,7 @@ l1: And it's one more day up in the canyons
 c1:          D                 G       Em
 l1: And it's one more night in Hollywood
 
-c1:        D                  G        Em  N.C
+c1:        D                  G        Em  N.C.
 l1: If you think that I could be forgiven…
 
 c1:            D
