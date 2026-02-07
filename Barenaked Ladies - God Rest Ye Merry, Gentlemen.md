@@ -6,7 +6,7 @@ c1: Am E Am E Am E Am E Am E Am E
 
 ## Verse 1
 
-c1:     Am      E     Am      E
+c1:     Am      E     Am    E
 l1: God rest ye merry gentlemen,
 
 c1:     F              E
