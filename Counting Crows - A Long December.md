@@ -11,10 +11,10 @@ c1: D G Em G D G Em
 c1: G             D                  A           Em
 l1: A long December and there's reason to believe
 
-c1:       G                D                G
+c1:       G                 D               G
 l1: Maybe this year will be better than the last
 
-c1: Em               G      D                    A
+c1: Em               G      D                   A
 l1:    I can't remember the last thing that you said
 
 c1:             Em
@@ -120,7 +120,7 @@ l1: And it's one more day up in the canyon
 c1:          D               G         Em
 l1: And it's one more night in Hollywood
 
-c1:          D                  G        Em     N.C.
+c1:           D                  G        Em     N.C.
 l1: It's been so long since I've seen the ocean…
 
 c1:           D
