@@ -2,6 +2,8 @@
 
 ## Intro
 
+c1: G G/F# Em7 A7sus4 Asus2 A7
+
 ## Verse 1
 
 c1: D          A        G             F#m
