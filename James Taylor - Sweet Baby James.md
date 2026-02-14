@@ -27,7 +27,7 @@ l1: thinkin' about women and glasses of beer.
 c1:     G                       A          D
 l1: And closing his eyes as the doggies retire,
 
-c1     Bm          G             D
+c1:    Bm          G             D
 l1: he sings out a song which is soft but it's clear,
 
 c1:    Bm       E             A
