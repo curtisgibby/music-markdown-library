@@ -45,7 +45,7 @@ c1:         G
 l1: I wanna be there when you're feeling down
 
 c1:             C
-l1: and I'll be there when you're head is spinning round
+l1: and I'll be there when your head is spinning round
 
 c1:           D
 l1: I'm gonna be your lover gonna be your friend
