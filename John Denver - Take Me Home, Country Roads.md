@@ -26,8 +26,11 @@ l1: West Virginia, mountain mama, take me home, country roads.
 c1: G                Em                 D             C                G
 l1: All my memories  gather 'round her, miner's lady, stranger to blue water.
 
-c1: G                 Em                  D                         C              G
-l1:  Dark and dusty, painted on the sky, misty taste of moonshine, teardrop in my eye.
+c1: G                 Em                  D
+l1:  Dark and dusty, painted on the sky, misty taste of moonshine,
+
+c1: C              G
+l1: teardrop in my eye.
 
 ## Chorus
 
