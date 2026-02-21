@@ -52,7 +52,7 @@ l1: What's being said between your heart and mine
 
 ## Chorus 2
 
-c1:       D             A          G             A
+c1:       D                        G             A
 l1: The smile on your face lets me know that you need me
 
 c1:             D             A          G             A
