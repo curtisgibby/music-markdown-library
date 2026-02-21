@@ -34,17 +34,17 @@ l1: And tell me everything is gonna be all right.
 
 ## Verse 2
 
-c1: D C Bm  E7
+c1: D               C             Bm                  E7
 l1: Seems as though a month ago I was Beta-Chi, never got high,
 
-c1: A
+c1:             A
 l1: oh, I was a sorry guy.
 
-c1: D C Bm
+c1: D               C                Bm
 l1: Now a smile, a face, a girl that shares my name
 
-c1: E7  A
-l1: Now I’m through with the game, this boy will never be the same.Chorus:
+c1:         E7                                         A
+l1: Now I’m through with the game, this boy will never be the same.
 
 ## Chorus
 
@@ -62,16 +62,16 @@ l1: And tell me everything is gonna be all right.
 
 ## Verse 3
 
-c1: D C Bm  E7
+c1: D                    C              Bm               E7
 l1: Pisces, Virgo rising is a very good sign, strong and kind,
 
-c1: A
+c1:                A
 l1: and the little boy is mine.
 
-c1: D C Bm
+c1: D           C                  Bm
 l1: Now I see a family where there once was none,
 
-c1: E7  A
+c1:           E7                            A
 l1: now we’ve just begun, yeah, we’re gonna fly to the sun.
 
 ## Chorus
@@ -90,16 +90,16 @@ l1: And tell me everything is gonna be all right.
 
 ## Verse 4
 
-c1: D C Bm  E7
+c1: D                 C                    Bm         E7
 l1: Love the girl who holds the world in a paper cup, drink it up,
 
-c1:  A
+c1:                     A
 l1: love her and she’ll bring you luck.
 
-c1: D C Bm
+c1: D                   C                       Bm
 l1: And if you find she helps your mind, better take her home,
 
-c1: E7 A
+c1:           E7                           A
 l1: Don’t you live alone, try to earn what lovers own
 
 ## Chorus
