@@ -42,7 +42,7 @@ l1: 'Cause everyone is forgiven now
 c1:        Am
 l1: 'Cause tonight's the night
 
-c1:     F            C           G
+c1:     F            C
 l1: the world begins again
 
 ## Verse 2
@@ -85,7 +85,7 @@ l1: 'Cause everyone is forgiven now
 c1:        Am            F
 l1: 'Cause tonight's the night
 
-c1:                  C          G
+c1:                  C
 l1: the world begins again
 
 ## Solo
@@ -120,5 +120,5 @@ l1: 'Cause everyone is forgiven now
 c1:        Am            F
 l1: 'Cause tonight's the night
 
-c1:                  C          G
+c1:                  C
 l1: the world begins again
