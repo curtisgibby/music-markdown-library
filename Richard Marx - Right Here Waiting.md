@@ -115,7 +115,7 @@ l1:   Wherever you go
 c1:              Am
 l1: Whatever you do
 
-c1:           F                  G    C
+c1:           F          G           C
 l1: I will be right here waiting for you
 
 c1:             G
