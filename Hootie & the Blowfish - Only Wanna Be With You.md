@@ -2,13 +2,11 @@
 
 ## Intro
 
-c1: D   G   D   G   D   G   A7sus4 A7sus4
-
 c1: D   G   D   G   D   G   D   G
 
 ## Verse 1
 
-c01: D        G        D                 G
+c1: D        G        D                 G
 l1:  You and me, we come from diff'rent worlds.
 
 c1: D            G                  D             G
@@ -50,7 +48,7 @@ l1: Well, there's nothing I can do.
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1:         Em7               A7sus4
+c1:         Em7               A7
 l1: You can call me your fool,
 
 c1:                      D   G   D   G
@@ -78,7 +76,7 @@ l1: I can't help it if I'm lucky."
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1: Em7                   A7sus4
+c1: Em7                   A7
 l1:   Ain't Bobby so cool?
 
 c1:                      D   G   D   G
@@ -96,7 +94,7 @@ l1: Yeah, I'm tangled up in blue,
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1:         Em7               A7sus4
+c1:         Em7               A7
 l1: You can call me your fool,
 
 c1:                    D   G   D   G   D   G   D   G
@@ -114,7 +112,7 @@ c1: D                  G     D               G
 l1:   Sometimes you're crazy  and you wonder why
 
 c1: D            G               D                G
-l1:   I'm such a baby, yeah, the dolphins make me cry.
+l1:   I'm such a baby, yeah, the Dolphins make me cry.
 
 ## Chorus
 
@@ -124,13 +122,13 @@ l1: Well, there's nothing I can do.
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1:         Em7             A7sus4
+c1:         Em7             A7
 l1: You can call me a fool,
 
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1:           Em7              A7sus4
+c1:           Em7              A7
 l1: Yeah, I'm tangled up in blue,
 
 c1:                      D   G   D   G
