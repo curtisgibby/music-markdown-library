@@ -103,5 +103,5 @@ l1: Thought I'd see you one more time again
 c1:                G                    Em             A
 l1: There's just a few things coming my way this time around, now
 
-c1:             G        G*          Em               A
+c1:             G        G          Em               A
 l1: Thought I'd see you, thought I'd see you fire and rain, now...
