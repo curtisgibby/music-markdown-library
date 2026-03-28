@@ -11,16 +11,16 @@ c1: A E G A
 ## Verse 1
 
 c1: A              Em                  D             A   Asus2 A
-Just yesterday morning they let me know you were gone
+l1: Just yesterday morning they let me know you were gone
 
 c1:             E                      G
-Suzanne the plans they made put an end to you
+l1: Suzanne the plans they made put an end to you
 
 c1: A                  Em            D               A   Asus2 A
- I walked out this morning and I wrote down this song
+l1:  I walked out this morning and I wrote down this song
 
 c1:                E             G          G D
-I just can't remember who to send it to
+l1: I just can't remember who to send it to
 
 ## Chorus
 
