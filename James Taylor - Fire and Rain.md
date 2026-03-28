@@ -6,7 +6,7 @@ Capo III
 
 c1: A G D A
 
-c1: A E G  A
+c1: A E G A
 
 ## Verse 1
 
