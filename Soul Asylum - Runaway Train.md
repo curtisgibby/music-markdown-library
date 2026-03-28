@@ -108,9 +108,9 @@ l1: Somehow I'm neither here nor there
 
 ## Instrumental
 
-c1: C C Em Em Am
+c1: C C Em Em
 
-c1: Am G G
+c1: Am Am G G C
 
 c1: F G C Am
 
@@ -158,6 +158,6 @@ l1: I'd run away but it always seems the same
 
 ## Outro
 
-c1: C C Em Em Am
+c1: C C Em Em
 
-c1: Am G G
+c1: Am Am G G C
