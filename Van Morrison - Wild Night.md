@@ -29,7 +29,7 @@ l1: when you're walkin out on the streets
 c1:         Em                 C              D
 l1: And the wind catches your feet, sends you flyin’, cryin’.
 
-c1: Em   C  D   Em            D        G
+c1: Em  C   D   Em            D        G
 l1: Ooh-ooh-ooh wee. The wild night is calling.
 
 c1: Em  C   D   Em            D        G
@@ -63,7 +63,7 @@ l1: when you're walkin out on the streets
 c1:         Em                 C              D
 l1: And the wind catches your feet, sends you flyin’, cryin’.
 
-c1: Em   C  D   Em            D        G
+c1: Em  C   D   Em            D        G
 l1: Ooh-ooh-ooh wee. The wild night is calling.
 
 c1: Em  C   D   Em            D        G
@@ -104,7 +104,7 @@ l1: when you're walkin out on the streets
 c1:         Em                 C              D
 l1: And the wind catches your feet, sends you flyin’, cryin’.
 
-c1: Em   C  D   Em            D        G
+c1: Em  C   D   Em            D        G
 l1: Ooh-ooh-ooh wee. The wild night is calling.
 
 c1: Em  C   D   Em            D        G
