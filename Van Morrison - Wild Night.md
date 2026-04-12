@@ -95,10 +95,10 @@ l1: Come on out and make romance.
 
 ## Chorus 3
 
-c1:         Em                 C
+c1:          Em                C
 l1: And everything looks so complete,
 
-c1:         Em                    C
+c1:             Em                C
 l1: when you're walkin out on the streets
 
 c1:         Em                 C              D
