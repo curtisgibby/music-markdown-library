@@ -143,7 +143,7 @@ c1:      A                         D
 l1: everybody get together, try to love one
 
 c1:   E           A
-another right now.
+l1: another right now.
 
 c1:       A          A       A
 l1: Right now, right now.....
