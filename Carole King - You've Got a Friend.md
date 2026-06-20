@@ -7,7 +7,7 @@ chords:
   Em7:
     - n2,2 n3,2 n5,3
   D7sus4:
-    - m1 m2 o3,2 n4,s n5,1 n6,3
+    - m1 m2 o3 n4,2 n5,1 n6,3
   G/B:
     - m1 n2,1 n5,3
 ---
