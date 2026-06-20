@@ -1,3 +1,17 @@
+---
+chords:
+  G:
+    - n1,3 m2 o3 o4 o5 n6,3
+  Gmaj7:
+    - n1,3 m2 o3 o4 n5,3 n6,2
+  Em7:
+    - n2,2 n3,2 n5,3
+  D7sus4:
+    - m1 m2 o3,2 n4,s n5,1 n6,3
+  G/B:
+    - m1 n2,1 n5,3
+---
+
 # Carole King - You've Got a Friend
 
 Capo 2nd fret
