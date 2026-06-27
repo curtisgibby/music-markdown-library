@@ -37,19 +37,19 @@ l1: Ooh-ooh-ooh wee. The wild night is calling.
 
 ## Verse 2
 
-c1: Em G
+c1:         Em                                 G
 l1: All the girls walk by, dressed up for each other.
 
-c1: Em
+c1:         Em
 l1: And the boys do the boogie woogie,
 
-c1: G
+c1:                      G
 l1: on the corner of the street.
 
-c1: Em G
+c1:         Em                              G
 l1: And the people passing by stare in wild wonder,
 
-c1: C D G
+c1:     C                  D               G
 l1: And inside the jukebox roars just like thunder.
 
 ## Chorus 2
