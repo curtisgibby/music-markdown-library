@@ -132,4 +132,4 @@ l1:  But you can never leave...
 
 ## Outro
 
-c1: Am   E7   G   D   F   C   Dm   E7 (repeat x5)
+c1: Am   E7   G   D   F   C   Dm   E7 (x5)
