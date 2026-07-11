@@ -15,13 +15,11 @@ l1: Don't let it burn, don't let it fade
 c1:                     Cadd9
 l1: I'm sure I might be rude
 
-c1:
 l1: But it's just your attitude
 
 c1:                  G
 l1: It's tearing me apart
 
-c1:
 l1: It's ruining everything
 
 c1:       D
@@ -33,13 +31,11 @@ l1: And honey, so did you
 c1:                             Cadd9
 l1: So why were you holding her hand
 
-c1:
 l1: Is that the way we stand
 
 c1:                        G
 l1: Were you lying all the time
 
-c1:
 l1: Was it just a game to you
 
 ## Chorus
@@ -56,7 +52,6 @@ l1: You got me wrapped around your finger
 c1:                       G
 l1: Do you have to let it linger
 
-c1:
 l1: Do you have to, do you have to
 
 c1:                       D
@@ -82,13 +77,11 @@ l1: Trying not to lie
 c1:                          Cadd9
 l1: Things wouldn't be so confused
 
-c1:
 l1: And I wouldn't feel so used
 
 c1:                       G
 l1: But you always really knew
 
-c1:
 l1: I just wanna be with you
 
 ## Chorus 2
@@ -105,7 +98,6 @@ l1: You got me wrapped around your finger
 c1:                       G
 l1: Do you have to let it linger
 
-c1:
 l1: Do you have to, do you have to
 
 c1:                       D
@@ -127,7 +119,6 @@ l1: You got me wrapped around your finger
 c1:                       G
 l1: Do you have to let it linger
 
-c1:
 l1: Do you have to, do you have to
 
 c1:                       D

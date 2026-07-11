@@ -137,7 +137,8 @@ def format_chart(text):
             continue
 
         # Otherwise it's a lyric line whose chord is held from above.
-        out.append('c1:')
+        # The renderer wants a lone `l1:` here — a bare empty `c1:` line
+        # breaks voice pairing and prints the prefixes as literal text.
         out.append('l1: ' + line)
         out.append('')
         i += 1
@@ -183,7 +184,8 @@ def _self_test():
         '\nc1: D    A    C    G\n' in got,           # progression preserved
         '## Verse 1\n' in got,
         'c1:    D\nl1: First line of the verse\n' in got,  # alignment kept
-        'c1:\nl1: A held-chord line with no chord above\n' in got,  # held chord
+        '\nl1: A held-chord line with no chord above\n' in got,  # lone l1:
+        '\nc1:\n' not in got,  # never emit a bare empty chord line
         'c1:         Em            C\nl1: In your head, zombie\n' in got,
         '\n\n\n' not in got,                          # no triple blanks
     ]
