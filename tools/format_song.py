@@ -47,7 +47,15 @@ _CHORD = re.compile(
 )
 
 # Tokens allowed to appear on a chord/progression line alongside chords.
-_MARKER = re.compile(r'^(?:x[0-9]+|X|\|+|\(x[0-9]+\)|N\.?C\.?|-+)$', re.IGNORECASE)
+# The renderer only accepts repeat counts in parenthesized form, e.g.
+# `(x4)`; a bare `x4` is an invalid token. Bare forms are still accepted
+# on *input* and normalized on output (see _normalize_repeats). A lone
+# stop glyph like `X` is NOT a valid chord token, so it is deliberately
+# excluded here — such a line falls through to plain-text handling.
+_MARKER = re.compile(r'^(?:x[0-9]+|\(x[0-9]+\)|\|+)$', re.IGNORECASE)
+
+# A bare repeat count as a standalone token, for normalization to (xN).
+_BARE_REPEAT = re.compile(r'(?<!\()\bx([0-9]+)\b(?!\))', re.IGNORECASE)
 
 _HEADER_BRACKET = re.compile(r'^\[(.+)\]$')
 _HEADER_PAREN = re.compile(r'^\((.+)\)$')
@@ -55,6 +63,11 @@ _HEADER_PAREN = re.compile(r'^\((.+)\)$')
 
 def _is_chord_token(tok):
     return bool(_CHORD.match(tok) or _MARKER.match(tok))
+
+
+def _normalize_repeats(line):
+    """Rewrite bare repeat counts (x4) so the renderer accepts them."""
+    return _BARE_REPEAT.sub(lambda m: '(x' + m.group(1) + ')', line)
 
 
 def is_chord_line(line):
@@ -122,7 +135,7 @@ def format_chart(text):
                 out.append('')
                 i += 2
             else:
-                out.append('c1: ' + line)
+                out.append('c1: ' + _normalize_repeats(line))
                 out.append('')
                 seen_body = True
                 i += 1
@@ -176,6 +189,9 @@ def _self_test():
         "[Chorus]\n"
         "        Em            C\n"
         "In your head, zombie\n"
+        "\n"
+        "[Instrumental]\n"
+        "Em C G D/F# x4\n"
     )
     got = format_chart(raw)
     checks = [
@@ -186,6 +202,8 @@ def _self_test():
         'c1:    D\nl1: First line of the verse\n' in got,  # alignment kept
         '\nl1: A held-chord line with no chord above\n' in got,  # lone l1:
         '\nc1:\n' not in got,  # never emit a bare empty chord line
+        'c1: Em C G D/F# (x4)\n' in got,  # bare repeat count normalized
+        'x4' not in got.replace('(x4)', ''),  # no bare x4 survives
         'c1:         Em            C\nl1: In your head, zombie\n' in got,
         '\n\n\n' not in got,                          # no triple blanks
     ]

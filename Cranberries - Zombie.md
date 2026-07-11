@@ -2,7 +2,7 @@
 
 ## Intro
 
-c1: Em C G D/F#  x4
+c1: Em C G D/F#  (x4)
 
 ## Verse 1
 
@@ -34,7 +34,7 @@ l1: What's in your head, in your head, zombie, zombie, zombie
 
 ## Instrumental
 
-c1: Em C G D/F# x2
+c1: Em C G D/F# (x2)
 
 ## Verse 2
 
@@ -66,18 +66,16 @@ l1: What's in your head, in your head, zombie, zombie, zombie
 
 ## Instrumental
 
-c1: Em C G D/F# x2
+c1: Em C G D/F# (x2)
 
-c1: Em C Em C x2
+c1: Em C Em C (x2)
 
 ## Solo
 
-c1: Em C G D/F# x3
+c1: Em C G D/F# (x3)
 
 ## Outro
 
 c1: Em C Em C
 
 c1: Em C Em
-
-c1: X
