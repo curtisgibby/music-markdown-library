@@ -33,3 +33,20 @@ For example, for `The Youngbloods - Let's Get Together.md`:
 ```bash
 ln -s "The Youngbloods - Let's Get Together.md" "-Let's Get Together - The Youngbloods.md"
 ```
+
+## Formatting Raw Charts
+
+`tools/format_song.py` converts a raw chord-over-lyrics chart (the shape you
+get pasting from a tab site) into the `c1:`/`l1:` Music Markdown layout. The
+first line of the input is the title; `[Section]` lines become `## Section`
+headers; chord lines are paired with the lyric line beneath them, preserving
+chord column positions exactly.
+
+```bash
+tools/format_song.py "Cranberries - Linger.md"        # print to stdout
+tools/format_song.py "Cranberries - Linger.md" -i     # rewrite in place
+tools/format_song.py "Cranberries - Linger.md" -o out.md
+tools/format_song.py --self-test                      # run built-in checks
+```
+
+The classifier is heuristic — always eyeball the output before committing.
