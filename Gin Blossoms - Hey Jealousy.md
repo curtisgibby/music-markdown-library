@@ -4,7 +4,7 @@ Capo 2nd fret
 
 ## Intro
 
-D
+c1: D
 
 ## Verse 1
 
