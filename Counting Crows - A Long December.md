@@ -1,6 +1,6 @@
 # Counting Crows - A Long December
 
-Capo Third Chord
+Capo 3rd fret
 
 ## Intro
 
