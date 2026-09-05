@@ -1,5 +1,7 @@
 # Hootie & the Blowfish - Only Wanna Be With You
 
+Capo 4th Fret
+
 ## Intro
 
 c1: D   G   D   G   D   G   D   G
