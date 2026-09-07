@@ -50,7 +50,7 @@ l1: Well, there's nothing I can do.
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1:         Em7               A7
+c1:         Em7               A7sus4
 l1: You can call me your fool,
 
 c1:                      D   G   D   G
@@ -78,7 +78,7 @@ l1: I can't help it if I'm lucky."
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1: Em7                   A7
+c1: Em7                   A7sus4
 l1:   Ain't Bobby so cool?
 
 c1:                      D   G   D   G
@@ -96,7 +96,7 @@ l1: Yeah, I'm tangled up in blue,
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1:         Em7               A7
+c1:         Em7               A7sus4
 l1: You can call me your fool,
 
 c1:                    D   G   D   G   D   G   D   G
@@ -124,13 +124,13 @@ l1: Well, there's nothing I can do.
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1:         Em7             A7
+c1:         Em7             A7sus4
 l1: You can call me a fool,
 
 c1:                      D   G   D   G
 l1: I only wanna be with you.
 
-c1:           Em7              A7
+c1:           Em7              A7sus4
 l1: Yeah, I'm tangled up in blue,
 
 c1:                      D   G   D   G
