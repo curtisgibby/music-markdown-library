@@ -2,6 +2,12 @@
 chords:
   Csus4:
     - m1 n2,3 n3,3 b5,6,1
+  C/B:
+    - m1 n2,2 n3,2 n5,1
+  Am/G:
+    - n1,3 m2 n3,2 n4,2 n5,1
+  Am7/G:
+    - n1,3 m2 n3,2 n5,1
 ---
 
 # John Sebastian - Darling Be Home Soon
