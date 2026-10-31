@@ -1,3 +1,9 @@
+---
+chords:
+  Csus4:
+    - m1 n2,3 n3,3 o5 b5,6,1
+---
+
 # John Sebastian - Darling Be Home Soon
 
 ## Intro
