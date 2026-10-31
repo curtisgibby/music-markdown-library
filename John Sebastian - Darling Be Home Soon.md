@@ -1,5 +1,9 @@
 # John Sebastian - Darling Be Home Soon
 
+## Intro
+
+c1:     G
+
 ## Verse 1
 
 c1:     G        C                               G
