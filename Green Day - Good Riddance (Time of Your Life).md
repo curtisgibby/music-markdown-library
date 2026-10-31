@@ -1,3 +1,8 @@
+---
+chords:
+  Cadd9:
+    - m1 n2,3 n3,2 n5,3
+---
 # Green Day - Good Riddance (Time of Your Life)
 
 ## Intro
