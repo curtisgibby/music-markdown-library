@@ -27,7 +27,7 @@ l1: Here and laugh about our funny little ways
 c1:             C  C/B    Am7          G
 l1: while we have a few minutes to breathe
 
-c1:         C    C/B       Am7             G
+c1:         C    C/B       Am7             D7
 l1: and I know that it's time you must leave
 
 ## Chorus
